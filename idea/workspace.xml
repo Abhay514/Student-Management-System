@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1217573-22f2-4c72-a888-6f9d120c9272" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kBvnNkaCGO4Sp1eGPlQUiuYduJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.First_C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyFirst (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyFirst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.New.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loginController.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loginSignUpController.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15359208&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47356322&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\src\studentmanagementsystem" />
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\src\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\src\studentmanagementsystem\icons" />
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\src\studentmanagementsystem" />
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\src\studentmanagementsystem\images" />
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\resources\icons" />
+      <recent name="E:\StudentManagementSystem-main\StudentManagementSystem-main\studentManagementSystem\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentManagementSystem">
+    <configuration name="First_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentmanagementsystem.First_C" />
+      <module name="StudentManagementSystem-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirst (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirst" />
+      <module name="StudentManagementSystem-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentmanagementsystem.MyFirst" />
+      <module name="StudentManagementSystem-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentmanagementsystem.Solution" />
+      <module name="StudentManagementSystem-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentmanagementsystem.StudentManagementSystem" />
+      <module name="StudentManagementSystem-main" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentManagementSystem" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.First_C" />
+        <item itemvalue="Application.MyFirst (1)" />
+        <item itemvalue="Application.MyFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1217573-22f2-4c72-a888-6f9d120c9272" name="Changes" comment="" />
+      <created>1722769950450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722769950450</updated>
+    </task>
+    <servers />
+  </component>
+</project>
